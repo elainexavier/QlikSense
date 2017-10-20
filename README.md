@@ -1,0 +1,2 @@
+# QlikSense
+Análises com QlikSense
